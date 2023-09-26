@@ -17,7 +17,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://github.com/Retr0-01/Retr0-01/blob/main/img/astro-icon-light-gradient.png" alt="astro" width="40" height="40"/> </a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://github.com/Retr0-01/Retr0-01/blob/main/img/astro-icon-light-gradient.png" alt="astro" width="30" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Retr0-01/Retr0-01/blob/main/img/unity-logo-new.png" alt="unity" width="40" height="40"/></a>
